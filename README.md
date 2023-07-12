@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Student of the Kyrgyz State Technical University named after I.Razzakov<br>🤝 CEO SkyDragon Games Studio<br>⚡ Love Anime and Manga
+👨‍🎓 Student of the Kyrgyz State Technical University named after I.Razzakov<br>🎮 CEO SkyDragon Games Studio<br>⚡ Love Anime and Manga
 
 
 ## 🌐 Socials:
