@@ -1,6 +1,4 @@
-# 💫 About Me:
-👨‍🎓 Student of the Kyrgyz State Technical University named after I.Razzakov<br>🎮 CEO SkyDragon Games Studio<br>⚡ Love Anime and Manga
-
+# Software Engineer
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kubatchyngyzov) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_0verl0rd_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kubat-chyngyzbek-uulu-8b4768231) 
